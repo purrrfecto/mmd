@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Alban Knox model
+title: Alban Knox
 has_children: true
 permalink: /models/alban-knox
 ---
 
-lalala
+nya
