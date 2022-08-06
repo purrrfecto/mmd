@@ -16,6 +16,6 @@ has_children: false
 - 一個你喜歡的實況影片或剪片烤肉，有提到彩虹社EN成員的
 - 你打算用來下載的bowroll帳號連結
 
-直接在DM我[推特](https://twitter.com/hokekyooo)就可以了！
+直接DM我[推特帳號](https://twitter.com/hokekyooo)就可以了！
 
-申請通過了的話推特帳號會被加到一個列表裡，列表上會提供下載方法的網址
+申請通過了的話你的推特帳號會被加到一個列表裡，列表上會提供下載方法的網址
