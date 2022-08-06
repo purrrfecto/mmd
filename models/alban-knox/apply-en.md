@@ -1,6 +1,8 @@
 ---
+layout: default
 title: English ver.
 parent: apply
+grand_parent: Alban Knox model
 has_children: false
 ---
 
