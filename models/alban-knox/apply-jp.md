@@ -2,7 +2,6 @@
 title: 日本語 ver.
 parent: Apply
 has_children: false
-nav_order: 1
 ---
 
 ## japanese ver
