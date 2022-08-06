@@ -2,7 +2,6 @@
 title: English ver.
 parent: Apply
 has_children: false
-nav_order: 1
 ---
 
 ## english ver
