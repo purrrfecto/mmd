@@ -1,6 +1,6 @@
 ---
 title: 日本語 ver.
-parent: Apply
+parent: apply
 has_children: false
 ---
 
