@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Apply for the Alban Knox model
+title: Apply
 has_children: true
 nav_order: 3
 permalink: /models/alban-knox/apply
