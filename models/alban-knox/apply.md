@@ -1,6 +1,6 @@
 ---
 layout: default
-title: apply
+title: Apply
 has_children: true
 parent: Alban Knox
 permalink: /models/alban-knox/apply
