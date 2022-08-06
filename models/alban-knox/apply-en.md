@@ -16,6 +16,7 @@ Please provide the following if still interested:
 - a link of your MMD video/image published on either public media website (e.g. niconico/youtube/twitter, etc.) that did not violate any rights and rules
 - a link to VOD or clip that mentioned NijiEN member you like
 - a link to the bowroll profile you would use to download the file
+
 Please DM me directly on [twitter](https://twitter.com/hokekyooo)! 
 
 Once your eligibility is confirmed, your account would be added to a Twitter list, which includes the link to the download instructions.
