@@ -1,6 +1,6 @@
 ---
 title: 日本語ver.
-parent: Alban Knox model
+parent: Apply for the Alban Knox model
 has_children: false
 nav_order: 1
 ---
