@@ -2,7 +2,6 @@
 title: 中文 ver.
 parent: Apply
 has_children: false
-nav_order: 1
 ---
 
 ## chinese ver
