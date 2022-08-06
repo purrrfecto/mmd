@@ -1,6 +1,6 @@
 ---
 title: 中文 ver.
-parent: Apply
+parent: apply
 has_children: false
 ---
 
