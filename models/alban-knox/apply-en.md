@@ -1,6 +1,6 @@
 ---
 title: English ver.
-parent: Apply
+parent: apply
 has_children: false
 ---
 
