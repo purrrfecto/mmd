@@ -1,8 +1,8 @@
 ---
 layout: default
 title: 中文 ver.
-parent: apply
-grand_parent: Alban Knox model
+parent: Apply
+grand_parent: Alban Knox
 has_children: false
 ---
 
