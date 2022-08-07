@@ -4,6 +4,7 @@ title: Term of Use
 has_children: true
 parent: Alban Knox
 nav_order: 3
+has_toc: false
 permalink: /models/alban-knox/tos
 ---
 
