@@ -8,7 +8,7 @@ has_children: false
 
 ## japanese ver
 - [ANYCOLOR二次創作ガイドライン](https://event.nijisanji.app/guidelines/)　を参照
-- 投稿するときはハッシュタグ「**#にじさんじMMD**」を付けてください
+- 投稿するときはハッシュタグ「**#にじさんじMMD**」と「#NijisanjiMMD」を付けてください
 
 |   モデル自体について     | ✔️/❌    |
 | ----------- | ----------- |
