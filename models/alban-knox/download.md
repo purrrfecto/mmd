@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Download
-has_children: true
+has_children: false
 parent: Alban Knox
 nav_order: 2
 permalink: /models/alban-knox/download
