@@ -2,7 +2,7 @@
 layout: default
 title: Term of Use 中文版
 parent: Term of Use
-grand_parent: Alban Knox model
+grand_parent: Alban Knox
 has_children: false
 ---
 
