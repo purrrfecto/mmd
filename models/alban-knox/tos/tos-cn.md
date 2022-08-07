@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Term of Use 中文版
+title: Term of Use 中文 ver.
 parent: Term of Use
 grand_parent: Alban Knox
 has_children: false
