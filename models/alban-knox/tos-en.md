@@ -15,10 +15,12 @@ has_children: false
 |Commercial use|❌|
 |Use as an avatar or impersonation (e.g. VRChat)|❌|
 |Use with the liver's voice without permission|❌|
+|things that violate the liver's rule (e.g. certain shipping rule) |❌|
 |Use with a ripped model or motion|❌|
 |Redistribution|❌|
 |Modification[^mod] |✔️| 
 |Render with other software (e.g. blender)|✔️|
+|Most other things I didn't say no|✔️|
 
 
 
