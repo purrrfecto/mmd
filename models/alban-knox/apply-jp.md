@@ -4,6 +4,7 @@ title: 日本語 ver.
 parent: Apply
 grand_parent: Alban Knox model
 has_children: false
+permalink: /models/alban-knox/apply-jp
 ---
 
 ## japanese ver
