@@ -6,7 +6,7 @@ grand_parent: Alban Knox
 has_children: false
 ---
 
-## 中文版
+## 使用條款中文版
 - 遵守 [彩虹社二次創作規範](https://event.nijisanji.app/guidelines/en/)，這東西沒官方中文版的我也沒辦法，加油
 - 投稿時除了使用正確的art tag以外，也請加上「**#にじさんじMMD**」和「**#NijisanjiMMD**」
 
