@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 日本語 ver.
+title: Readme 日本語 ver.
 parent: Readme
 grand_parent: Alban Knox model
 has_children: false
