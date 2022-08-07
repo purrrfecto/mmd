@@ -8,3 +8,6 @@ permalink: /models/alban-knox/readme
 ---
 
 # Choose a language
+- [日本語](readme-jp.md)
+- ~~[English](readme-en.md)~~ wip
+- ~~[中文](readme-cn.md)~~ wip
