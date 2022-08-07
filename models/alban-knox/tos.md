@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Term of Service
+title: Term of Use
 has_children: true
 parent: Alban Knox
 nav_order: 3
