@@ -11,5 +11,4 @@ permalink: /models/alban-knox/tos
 # Choose a language
 - [日本語](tos-jp.md)
 - [English](tos-en.md)
-- ~~[中文](tos-cn.md)~~ 準備中
-
+- [中文](tos-cn.md)
