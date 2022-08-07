@@ -1,3 +1,4 @@
+---
 layout: default
 title: 日本語 ver.
 parent: Readme
