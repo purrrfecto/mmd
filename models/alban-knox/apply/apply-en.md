@@ -2,7 +2,7 @@
 layout: default
 title: English ver.
 parent: Apply
-grand_parent: Alban Knox model
+grand_parent: Alban Knox
 has_children: false
 ---
 
