@@ -1,6 +1,6 @@
 ---
 layout: default
-title: English ver.
+title: Term of Use English ver.
 parent: Term of Use
 grand_parent: Alban Knox model
 has_children: false
