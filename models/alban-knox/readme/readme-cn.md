@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Readme 中文版
+title: Readme 中文 ver.
 parent: Readme
 grand_parent: Alban Knox
 has_children: false
