@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 日本語 ver.
-parent: tos
+parent: Term of Use
 grand_parent: Alban Knox model
 has_children: false
 ---
