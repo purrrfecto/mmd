@@ -2,7 +2,7 @@
 layout: default
 title: Readme 中文版
 parent: Readme
-grand_parent: Alban Knox model
+grand_parent: Alban Knox
 has_children: false
 ---
 
