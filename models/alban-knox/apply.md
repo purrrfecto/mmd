@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Apply
+title: apply
 has_children: true
 parent: Alban Knox
 nav_order: 1
