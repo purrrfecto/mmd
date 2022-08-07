@@ -6,7 +6,7 @@ grand_parent: Alban Knox model
 has_children: false
 ---
 
-## English ver
+## 中文版
 - 遵守 [彩虹社二次創作規範](https://event.nijisanji.app/guidelines/en/)，這東西沒官方中文版的我也沒辦法，加油
 - 投稿時除了使用正確的art tag以外，也請加上「**#にじさんじMMD**」和「**#NijisanjiMMD**」
 
@@ -20,6 +20,8 @@ has_children: false
 |改造[^mod] |✔️| 
 |用其他程式渲染(例：blender)|✔️|
 
-
-
+### Credit
+- niconico的延伸樹狀圖（コンテンツツリー）的登錄網址 https://www.nicovideo.jp/watch/sm40875797
+- 不強制，但是如果你做了什麼投稿後願意告訴我一聲的話我會非常非常開心😘😘😘
+- 
 [^mod]: 如果你做了什麼很棒的修改想要分享給大家，請務必聯絡我！我也想看更多的表情，配件，或者誰來做個yamiban版本之類的！
