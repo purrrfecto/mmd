@@ -12,4 +12,4 @@ has_children: false
 - morph with "AL" in the name means you can use MME's AutoLumious4 to make it glow
 - 
 ## Known issues
-- with MME on there are some weird shadow around the armpit area on the coat, I don't know how to fix it, if you really hate it you can turn off MME.
+- ~~with MME on there are some weird shadow around the armpit area on the coat, I don't know how to fix it, if you really hate it you can turn off MME.~~ Seems like to be problem with HgSpotlight, may want to avoid using it together
