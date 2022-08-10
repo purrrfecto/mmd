@@ -8,6 +8,6 @@ permalink: /
 
 # Contact
 
-- Twitter: https://twitter.com/hokekyooo
-- Marshmallow: https://marshmallow-qa.com/hokekyooo
-- Ko-fi: https://ko-fi.com/hokekyooo
+- [Twitter](https://twitter.com/hokekyooo)
+- [Marshmallow](https://marshmallow-qa.com/hokekyooo)
+- [Ko-fi](https://ko-fi.com/hokekyooo)
