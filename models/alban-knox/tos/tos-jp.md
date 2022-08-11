@@ -5,8 +5,11 @@ parent: Term of Use
 grand_parent: Alban Knox
 has_children: false
 ---
+## 免責条項
+ご使用の際は全て自己責任でお願いします。
+モデルは予告なく配布停止、使用禁止をする場合があります。
 
-## japanese ver
+## 使用規約
 - [ANYCOLOR二次創作ガイドライン](https://event.nijisanji.app/guidelines/)　を参照
 - 投稿するときはハッシュタグ「**#にじさんじMMD**」と「#NijisanjiMMD」を付けてください
 
