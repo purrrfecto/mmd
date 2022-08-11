@@ -10,7 +10,7 @@ has_children: false
 Thanks for the interest! This is my first time making a model for distribution, so I would not recommend anyone new to MMD to try it. IT WOULD BE PAINFUL.
 
 Due to the complexity of MMD and vtuber fanart culture, I have to verify a few things before giving out the model.
-Also, by applying and downloading, you agreed the [Term of Use](toc-en.md).
+Also, by applying and downloading, you agreed the [Term of Use](../tos/tos-en.md).
 
 Please provide the following if still interested:
 - a public Twitter account (protected account could not be added to the list per twitter limitation)
