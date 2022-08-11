@@ -6,9 +6,14 @@ grand_parent: Alban Knox
 has_children: false
 ---
 
-## English ver
+
+### Disclaimer
+You agree that your use of the services is at your sole risk. I am not liable for any indirect, incidental, consequential, special or damages of any kind whatsoever. 
+
+### Term of Use
 - Follow the [ANYCOLOR - Guidelines for Secondary Creation](https://event.nijisanji.app/guidelines/en/)
 - Besides the correct art tag, add the hashtag「**#にじさんじMMD**」and「**#NijisanjiMMD**」when you publish
+
 
 |   for the model itself     | ✔️/❌    |
 | ----------- | ----------- |
