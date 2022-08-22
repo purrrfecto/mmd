@@ -40,6 +40,7 @@ All notable changes to this project will be documented in this file. Version nam
   - コート外すときプロテクターも外すようになりました。
   - 脫外套的時候忘記脫的護甲會脫掉了
   - the protector now remove with the coat
+
 ## [1.0.0] - 20220806
 ### Added
 - 初配布
