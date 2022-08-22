@@ -4,15 +4,28 @@ import csv
 def read_some_data(context, filepath, use_some_setting, codec_type):
     print("running read_some_data...")
     #print(codec_type)
+    #shift-JIS = cp932, otherwise utf-8
     with open(filepath, 'r', encoding=codec_type) as csvfile:
         csvreader = csv.reader(csvfile, delimiter=',', quotechar='"')
-        for row in csvreader:
-            print(', '.join(row))
+        header = next(csvreader)
+        print(', '.join(header))
+        if "Body" in header[0]:
+            print("rigid body csv")
+        elif "Joint" in header[0]:
+            print("joint csv")
+        #for row in csvreader:
+            #print(', '.join(row))
             
-    #shift-JIS = cp932, otherwise utf-8
-
-    # would normally load the data here
-    #print(data)
+            
+    #Joint
+    #;Joint, Joint名, Joint名(英), 剛体名A, 剛体名B, Jointタイプ(0:ﾊﾞﾈ付6DOF/1:6DOF/2:P2P/3:ConeTwist/4:Slider/5:Hinge/), 位 置_x, 位置_y, 位置_z, 回転_x[deg], 回転_y[deg], 回転_z[deg], 移動下限_x, 移動下限_y, 移動下限_z, 移動上限_x, 移動上限_y, 移動上限_z, 回転下限_x[deg], 回転下限_y[deg], 回転下限_z[deg], 回転上限_x[deg], 回転上限_y[deg], 回転上限_z[deg], バネ 定数-移動_x, バネ定数-移動_y, バネ定数-移動_z, バネ定数-回転_x, バネ定数-回転_y, バネ定数-回転_z
+    #Rigidbody
+    #;Body,剛体名,剛体名(英),関連ボーン名,剛体タイプ(0:Bone/1:物理演算/2:物理演算+ボーン追従),グループ(0~15),非衝突グループ文字列(ex:1 2 3 4),形状(0:球/1:箱/2:カプセル),サイズ_x,サイズ_y,サイズ_z,位置_x,位置_y,位置_z,回転_x[deg],回転_y[deg],回転_z[deg],質量,移動減衰,回転減衰,反発力,摩擦力
+    # Joint or rigidbody
+    # find name
+    # create/update object
+    # createRigidBody / createJoint
+      
 
     return {'FINISHED'}
 
