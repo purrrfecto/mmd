@@ -3,7 +3,7 @@ layout: default
 title: Contact
 nav_order: 10
 description: contact
-permalink: /
+permalink: /contact
 ---
 # Link tree
 
