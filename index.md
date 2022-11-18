@@ -14,4 +14,5 @@ permalink: /
 
 - [Twitter](https://twitter.com/hokekyooo) (preferred)
 - [Marshmallow](https://marshmallow-qa.com/hokekyooo)
-- [Ko-fi](https://ko-fi.com/hokekyooo) ☕
+- [Ko-fi](https://ko-fi.com/hokekyooo) 
+- [Form](https://forms.gle/RY61zyE4FUQ6WBeo8) (if twitter is dead)
