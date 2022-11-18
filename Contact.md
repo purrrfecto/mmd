@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Contact
-nav_order: 10
-description: contact
-permalink: /contact
+nav_order: 7
 ---
+
 # Link tree
 
 - [Niconico](https://www.nicovideo.jp/user/51028082)
