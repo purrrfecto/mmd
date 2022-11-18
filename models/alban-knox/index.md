@@ -2,6 +2,7 @@
 layout: default
 title: Alban Knox
 has_children: true
+nav_order: 2
 permalink: /models/alban-knox
 ---
 
