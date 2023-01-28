@@ -1,0 +1,65 @@
+site_name: poppo
+site_url: https://purrrfecto.github.io/mmd/
+nav:
+    - Home: index.md
+    - Apply: apply.md
+    - Term of Use: tos.md
+    - Readme: readme.md
+    - Changelog: changelog.md
+    - Download: download.md
+theme:
+  name: material
+  palette: 
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+        
+plugins:
+  - i18n:
+      default_language: en
+      languages:
+        en:
+          name: English
+          build: true
+        ja:
+          name: 日本語
+          build: true
+        zh:
+          name: 中文
+          build: true
+      nav_translations:
+        ja:
+          Home: ホームページ
+          Apply: 申し込み
+          Term of Use: 利用規約
+          Readme: 説明書（README）
+          Changelog: 更新履歴
+          Download: ダウンロード
+        zh:
+          Home: 首頁
+          Apply: 申請
+          Term of Use: 使用條約
+          Readme: 使用說明
+          Changelog: 更新紀錄
+          Download: 下載
+          
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      

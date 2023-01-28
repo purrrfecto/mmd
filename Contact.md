@@ -1,9 +1,3 @@
----
-layout: default
-title: Contact
-nav_order: 7
----
-
 # Link tree
 
 - [Niconico](https://www.nicovideo.jp/user/51028082)
@@ -11,7 +5,7 @@ nav_order: 7
 
 # Contact me
 
-- [Twitter](https://twitter.com/hokekyooo) (preferred)
+- :fontawesome-brands-twitter: [Twitter](https://twitter.com/hokekyooo) (preferred)
 - [Marshmallow](https://marshmallow-qa.com/hokekyooo)
-- [Ko-fi](https://ko-fi.com/hokekyooo) 
+- :simple-kofi: [Ko-fi](https://ko-fi.com/hokekyooo) 
 - [Form](https://forms.gle/RY61zyE4FUQ6WBeo8) (if twitter is dead)
