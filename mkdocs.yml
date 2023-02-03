@@ -7,6 +7,7 @@ nav:
     - Readme: readme.md
     - Changelog: changelog.md
     - Download: download.md
+    - About: about.md
 theme:
   name: material
   palette: 
@@ -25,6 +26,8 @@ theme:
         name: Switch to light mode
         
 plugins:
+  - search
+  - macros
   - i18n:
       default_language: en
       languages:
@@ -45,6 +48,7 @@ plugins:
           Readme: 説明書（README）
           Changelog: 更新履歴
           Download: ダウンロード
+          About: 連絡
         zh:
           Home: 首頁
           Apply: 申請
@@ -52,14 +56,20 @@ plugins:
           Readme: 使用說明
           Changelog: 更新紀錄
           Download: 下載
-          
+          About: 連絡
+
 markdown_extensions:
   - attr_list
   - md_in_html
   - admonition
+  - footnotes
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
-      
+
+extra:
+  download_link: https://bowlroll.net/file/282665
+  privatter_link: https://privatter.net/m/hokekyooo
+  twitter_link: https://twitter.com/hokekyooo
