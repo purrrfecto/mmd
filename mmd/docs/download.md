@@ -12,4 +12,4 @@ permalink: /models/alban-knox/download
 - 申し込みで使ったツイッターアカウントでログインしてくださいね
 - 請登入你申請時用的推特帳號！
 
-**[Download Link](https://privatter.net/p/9150425)**
+**[Download Link](https://bowlroll.net/file/282665)**
