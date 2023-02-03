@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+         <loc>https://purrrfecto.github.io/mmd/</loc>
+         <lastmod>2023-02-03</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://purrrfecto.github.io/mmd/en/"/>
+         <xhtml:link rel="alternate" hreflang="ja" href="https://purrrfecto.github.io/mmd/ja/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://purrrfecto.github.io/mmd/zh/"/>
+         
+    </url>
+    <url>
+         <loc>https://purrrfecto.github.io/mmd/about/</loc>
+         <lastmod>2023-02-03</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://purrrfecto.github.io/mmd/en/about/"/>
+         <xhtml:link rel="alternate" hreflang="ja" href="https://purrrfecto.github.io/mmd/ja/about/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://purrrfecto.github.io/mmd/zh/about/"/>
+         
+    </url>
+    <url>
+         <loc>https://purrrfecto.github.io/mmd/apply/</loc>
+         <lastmod>2023-02-03</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://purrrfecto.github.io/mmd/en/apply/"/>
+         <xhtml:link rel="alternate" hreflang="ja" href="https://purrrfecto.github.io/mmd/ja/apply/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://purrrfecto.github.io/mmd/zh/apply/"/>
+         
+    </url>
+    <url>
+         <loc>https://purrrfecto.github.io/mmd/changelog/</loc>
+         <lastmod>2023-02-03</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://purrrfecto.github.io/mmd/en/changelog/"/>
+         <xhtml:link rel="alternate" hreflang="ja" href="https://purrrfecto.github.io/mmd/ja/changelog/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://purrrfecto.github.io/mmd/zh/changelog/"/>
+         
+    </url>
+    <url>
+         <loc>https://purrrfecto.github.io/mmd/download/</loc>
+         <lastmod>2023-02-03</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://purrrfecto.github.io/mmd/en/download/"/>
+         <xhtml:link rel="alternate" hreflang="ja" href="https://purrrfecto.github.io/mmd/ja/download/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://purrrfecto.github.io/mmd/zh/download/"/>
+         
+    </url>
+    <url>
+         <loc>https://purrrfecto.github.io/mmd/readme/</loc>
+         <lastmod>2023-02-03</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://purrrfecto.github.io/mmd/en/readme/"/>
+         <xhtml:link rel="alternate" hreflang="ja" href="https://purrrfecto.github.io/mmd/ja/readme/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://purrrfecto.github.io/mmd/zh/readme/"/>
+         
+    </url>
+    <url>
+         <loc>https://purrrfecto.github.io/mmd/tos/</loc>
+         <lastmod>2023-02-03</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://purrrfecto.github.io/mmd/en/tos/"/>
+         <xhtml:link rel="alternate" hreflang="ja" href="https://purrrfecto.github.io/mmd/ja/tos/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://purrrfecto.github.io/mmd/zh/tos/"/>
+         
+    </url>
+</urlset>
