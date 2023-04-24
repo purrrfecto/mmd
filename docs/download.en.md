@@ -1,4 +1,7 @@
-- Make sure you log in with the twitter account in your application to view the content!
+!!! note
+    Make sure you log in with the twitter account in your application to view the content!
 
-[:fontawesome-solid-file-zipper: Bowroll]({{ download_link }})
+- Current version: {{current_version}}
+- Last updated: {{last_updated}}
+- [:fontawesome-solid-file-zipper: Bowroll]({{ download_link }})
 

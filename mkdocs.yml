@@ -57,6 +57,7 @@ plugins:
           Changelog: 更新紀錄
           Download: 下載
           About: 連絡
+  - git-revision-date-localized
 
 markdown_extensions:
   - attr_list
@@ -65,11 +66,14 @@ markdown_extensions:
   - footnotes
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.tilde
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 extra:
+  current_version: v2.0.0
+  last_updated: 20230302
   download_link: https://bowlroll.net/file/282665
   privatter_link: https://privatter.net/m/hokekyooo
   twitter_link: https://twitter.com/hokekyooo
